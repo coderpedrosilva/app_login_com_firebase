@@ -14,7 +14,7 @@ Clicando na aba inferior “atividade” o usuário é levado para a tela de reg
 
 ![](img-readme/foto_3.jpg)
 
-Aqui já temos duas atividades registradas, para adicionar uma nova atividade basta clicar no botão “+”. Para definir a data e hora de início da atividade e seu fim basta clicar em cima de uma atividade já existente: 
+Aqui já temos duas atividades registradas, para adicionar uma nova atividade basta clicar no botão “+”. Para definir a data e hora de início da atividade e seu fim basta clicar em cima de uma atividade registrada: 
 
 ![](img-readme/foto_4.jpg)
 
