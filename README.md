@@ -1,6 +1,6 @@
 # APP TIME TRACKER COM LOGIN FIREBASE
 
-Aplicativo em Flutter desenvolvido com os conhecimentos adquiridos nas aulas do professor Andrea Bizzotto na Udemy. 
+Aplicativo em Dart e Flutter desenvolvido com os conhecimentos adquiridos nas aulas do professor Andrea Bizzotto na Udemy. 
 
 A função desse aplicativo é a de registrar trabalhos com tempo definido e remuneração por hora. É um app integrado ao banco de dados Firebase. Possui tela de login onde seu acesso pode ser anônimo, se dar por e-mail, conta do Google ou conta do Facebook. O próprio [Firebase](https://firebase.google.com/?hl=pt "Website do Firebase") fornece orientações de instalação, porém para informações sobre como integrar login com contas do Google e Facebook é necessário acessar os sites [Google Developers](https://developers.google.com/ "Website da Google Developers")  e [Facebook Developers](https://developers.facebook.com/ "Website do Facebook Developers").
 
